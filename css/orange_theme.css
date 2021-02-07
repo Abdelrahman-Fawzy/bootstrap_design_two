@@ -1,0 +1,44 @@
+.header-border::after,
+.header-border-center::after {
+  background-color: #FF8B38;
+}
+.navbar .navbar-header .navbar-brand span {
+  color: #FF8B38;
+}
+.header h1 span {
+  color: #FF8B38
+}
+.header form h2 span {
+  color: #FF8B38
+}
+.header form input[type="submit"] {
+  background-color: #FF8B38;
+}
+.tabs-section .tab-list .selected,
+.tabs-section .tab-list li:hover {
+  background-color: #FF8B38
+}
+.normal-button {
+  background-color: #ff8b38;
+  border-color: #ff8b38;
+}
+.normal-button:hover {
+  color: #ff8b38;
+}
+.sublist .list-icon i,
+.awesome i {
+  border: 1px solid #ff8b38;
+  color: #ff8b38;
+}
+.sublist .list-icon i:hover,
+.awesome i:hover {
+  border: 1px solid #ff8b38;
+  background-color: #ff8b38;
+  color: #fff;
+}
+.pricing-list .pricing-box .price-info {
+  border-bottom: 5px solid #ff8b38;
+}
+.pricing-list .pricing-box .most-pop {
+  background-color: #ff8b38;
+}
